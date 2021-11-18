@@ -14,11 +14,13 @@ organizations:
   url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large-scale structure.
+bio: My research interests include large-scale structure, N-Body simulation and galactic dynamics.
 
 # Interests to show in About widget
 interests:
 - Large-scale structure
+- N-Body simulation
+- Galactic dynamics
 
 # Education to show in About widget
 education:
