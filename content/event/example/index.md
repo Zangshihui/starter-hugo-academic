@@ -6,7 +6,11 @@ event_url: https://example.org
 
 location: Wowchemy HQ
 address:
-
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Measure cosmic tides with DES Y1 data.
 abstract: We will introduce planar tidal reconstruction methodology and its application on DES Y1 data.
