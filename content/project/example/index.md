@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Cosmic Tidal Reconstruction in Redshift-space
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
