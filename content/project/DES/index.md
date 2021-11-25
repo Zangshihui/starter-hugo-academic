@@ -22,7 +22,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
  Since photo-Z error and redshift distortions bring about unnegligible along line-of-sight, resulting in loss of most information in that direction, we projected halo catalogs onto a plane. In this project, we proposed the planar tidal reconstruction methodology to deal with projected density field. Currently we have applied this methodology on RedMegic catalog of {{< staticref "https://des.ncsa.illinois.edu/releases/y1a1/key-catalogs" "newtab" >}}DES Y1{{< /staticref >}} data and obtained the correspoinding density field.
 
- Next we will improve cosmology constraints according to this result.
+ Next we will calculate the power spectrum and improve cosmology constraints according to this result.
