@@ -11,7 +11,7 @@ role: Undergraduate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tsinghua University
-  url: https://www.tsinghua.edu.cn/
+  url: https://www.tsinghua.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include large-scale structure, N-Body simulation and galactic dynamics.
@@ -37,18 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Zangshihui
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,7 +55,8 @@ email: ""
 highlight_name: true
 ---
 
-Shihui Zang is a undergrad of School of Aerospace Engineering in Tsinghua University. His research interests include dark matter, large-scale structure and galatic dynamics.
+I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University. My research interests include dark matter, large-scale structure and galatic dynamics. With regard to more details, please see my CV
+
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
