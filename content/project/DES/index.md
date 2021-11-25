@@ -26,11 +26,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
- Previous study has investigated the formalism and implementation of tidal reconstruction in real space, and it did not take peculiar velocity of halos into account. The RSD effect induced by peculiar velocity will affect cosmic tidal reconstruction, but its effects on two reconstruction algorithm are different for that they utilize different shear terms. 2-shear-term tidal reconstruction is less affected by RSD effect since it only involves derivatives on tangential plane of observation , while 5-shear-term tidal reconstruction is expected to be more impacted by RSD effect since it involves direct observation along line-of-sight.
-
- The project discusses tidal reconstruction in redshift space by using cross correlation coefficient, propagator and noise power to quantify tidal reconstruction with redshift-space distortion. We compare both 2-shear-term tidal reconstruction and 5-shear-term tidal reconstruction to show their robustness in redshift space.
-
-Since the RSD effect brings about anisotropy in 5-shear-term tidal reconstruction. The RSD effect is a second-order effect in 2-shear-term tidal reconstruction for that two shear terms are not sensitive to errors along line-of-sight. Although 5-shear-term tidal reconstruction is likely to suffer from the RSD effect, this algorithm still performs slightly better than 2-shear-term tidal reconstruction in redshift-space, recovering more modes.
-
-We also acquire large-scale linear bias from tidal reconstruction in redshift-space. The bias is constant in each bin with good approximation, which can be well fitted into a quadratic polynomial. However, more detailed studies are required to explain the relation behind anisotropic bias and peculiar velocity.
