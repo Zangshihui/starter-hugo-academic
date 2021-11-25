@@ -1,6 +1,6 @@
 ---
 title: Measure cosmic tides with DES Y1 data
-summary: We performed 2-shear-term and 5-shear-term tidal reconstruction in red shift space with six independent catalogs produced by N-body simulation and soft mass cut. The cross correlation coefficient, propagator and noise power are used to quantify the results of two tidal reconstruction algorithms in red shift space.
+summary: We proposed the planar tidal reconstruction methodology to deal with projected density field in order to get rid of errors induced by photo-Z errors and redshift distortions. This method is applied to the RedMagic catalog of DES Y1 data. We perform tidal reconstruction on corresponding area. Now we are trying to improve cosmological constraints based on this result. 
 tags:
 - DES
 date: "2021-11-22T00:00:00Z"
