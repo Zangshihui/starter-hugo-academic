@@ -55,11 +55,4 @@ email: ""
 highlight_name: true
 ---
 
-I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University. My research interests include dark matter, large-scale structure and galatic dynamics. With regard to more details, please see my CV
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University. My research interests include dark matter, large-scale structure and galatic dynamics. With regard to more details, please download my {{< staticref "https://drive.google.com/file/d/1z7IiejjBopzXKa-2LLwV1IvllPiyJsGG/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
