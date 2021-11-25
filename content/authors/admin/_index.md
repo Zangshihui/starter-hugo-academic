@@ -44,9 +44,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1z7IiejjBopzXKa-2LLwV1IvllPiyJsGG/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -55,4 +55,4 @@ email: ""
 highlight_name: true
 ---
 
-I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University. My research interests include dark matter, large-scale structure and galatic dynamics. With regard to more details, please download my {{< staticref "https://drive.google.com/file/d/1z7IiejjBopzXKa-2LLwV1IvllPiyJsGG/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
+I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University. I'm interested in a variety of topics, including dark matter, large-scale structure and galatic dynamics. I'm the author and maintainer of {{< staticref "https://github.com/Zangshihui/TideRec" "newtab" >}}TideRec{{< /staticref >}} package, providing python version of tidal reconstruction in {{< staticref "https://arxiv.org/abs/2108.01575" "newtab" >}}Zhu et al. 2021{{< /staticref >}}. If you want to see more details, please download my {{< staticref "https://drive.google.com/file/d/1z7IiejjBopzXKa-2LLwV1IvllPiyJsGG/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
