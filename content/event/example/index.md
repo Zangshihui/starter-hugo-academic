@@ -1,16 +1,16 @@
 ---
 title: CITA Cosmo-Discussion
 
-event: Wowchemy Conference
+event: CITA Cosmo-Discussion
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: CITA (Online)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 60 St. George Street
+  city: Toronto
+  region: ON
+  postcode: M5S 3H8
+  country: CANADA
 
 summary: Measure cosmic tides with DES Y1 data.
 abstract: "We will introduce planar tidal reconstruction methodology and its application on DES Y1 data."
