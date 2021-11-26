@@ -2,7 +2,6 @@
 title: CITA Cosmo-Discussion
 
 event: CITA Cosmo-Discussion
-event_url: https://example.org
 
 location: CITA (Online)
 address:
