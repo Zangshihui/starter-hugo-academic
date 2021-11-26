@@ -1,5 +1,5 @@
 ---
-title: Cosmic Tidal Reconstruction in Redshift-space
+title: Cosmic tidal reconstruction in redshift space
 summary: We performed 2-shear-term and 5-shear-term tidal reconstruction in red shift space with six independent catalogs produced by N-body simulation and soft mass cut. The cross correlation coefficient, propagator and noise power are used to quantify the results of two tidal reconstruction algorithms in red shift space.
 tags:
 - RSD
@@ -24,7 +24,7 @@ url_video: ""
 ---
  The project discusses tidal reconstruction in redshift space by using cross correlation coefficient, propagator and noise power to quantify tidal reconstruction with redshift-space distortion. We compare both 2-shear-term tidal reconstruction and 5-shear-term tidal reconstruction to show their robustness in redshift space.
 
-Since the RSD effect brings about anisotropy in 5-shear-term tidal reconstruction. The RSD effect is a second-order effect in 2-shear-term tidal reconstruction for that two shear terms are not sensitive to errors along line-of-sight. Although 5-shear-term tidal reconstruction is likely to suffer from the RSD effect, this algorithm still performs slightly better than 2-shear-term tidal reconstruction in redshift-space, recovering more modes.
+The RSD effect brings about anisotropy in 5-shear-term tidal reconstruction. The RSD effect is a second-order effect in 2-shear-term tidal reconstruction for that two shear terms are not sensitive to errors along line-of-sight. Although 5-shear-term tidal reconstruction is likely to suffer from the RSD effect, this algorithm still performs slightly better than 2-shear-term tidal reconstruction in redshift-space, recovering more modes.
 
 We also acquire large-scale linear bias from tidal reconstruction in redshift-space. The bias is constant in each bin with good approximation, which can be well fitted into a quadratic polynomial. However, more detailed studies are required to explain the relation behind anisotropic bias and peculiar velocity.
 
