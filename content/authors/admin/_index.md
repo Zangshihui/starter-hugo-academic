@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Engineering
+  - course: Bachelor of Engineering
     institution: School of Aerospace Engineering, Tsinghua University
     year: 2022 (expected)
 
