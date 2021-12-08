@@ -16,8 +16,8 @@ abstract: "Tides induced by anisotropic gravitational field is a good tracer of 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-17T14:00:00Z"
-date_end: "2021-12-17T14:30:00Z"
+date: "2021-12-10T14:00:00Z"
+date_end: "2021-12-10T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
