@@ -12,7 +12,7 @@ address:
   country: CANADA
 
 summary: Measure cosmic tides with DES Y1 data.
-abstract: "We will introduce planar tidal reconstruction methodology and its application on DES Y1 data."
+abstract: "Tides induced by anisotropic gravitational field is a good tracer of the density distribution. This is also a good tool to extract structural information from small-scale structure which is challenging due to non-linear dynamics. We will give an intuitive picture of this method, and also discuss the influence of redshift distortions and photo-Z error. Finally, we will talk about our current research to improve cosmological parameter constraints with DES Y1 data based on tidal reconstruction method."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
