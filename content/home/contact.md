@@ -28,3 +28,5 @@ content:
 design:
   columns: '2'
 ---
+
+<a href="http://www.clustrmaps.com/map/Zangshastro.com" title="Visit tracker for Zangshastro.com"><img src="//www.clustrmaps.com/map_v2.png?d=EleveskEQU0AMAaRR3cK67xDYoFltOBzaHbjLF4XkJU" /></a>
