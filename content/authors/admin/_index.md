@@ -57,5 +57,4 @@ highlight_name: true
 
 I was born in Wuxi, Jiangsu Province, an ancient city in east China. Currently I am a senior in School of Aerospace Engineering in Tsinghua University, and having an online internship at CITA. I'm interested in a variety of topics, including dark matter, large-scale structure and galatic dynamics. I'm the author and maintainer of {{< staticref "https://github.com/Zangshihui/TideRec" "newtab" >}}TideRec{{< /staticref >}} package, providing python version of tidal reconstruction in {{< staticref "https://arxiv.org/abs/2108.01575" "newtab" >}}Zhu et al. 2021{{< /staticref >}}. If you want to see more details, please download my {{< staticref "https://drive.google.com/file/d/1vUWYU_WEZvmVXeRykjd8uOYpkQ9PTIZr/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
 
-{{<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EleveskEQU0AMAaRR3cK67xDYoFltOBzaHbjLF4XkJU"></script>
-}}
+
